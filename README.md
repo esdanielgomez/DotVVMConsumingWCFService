@@ -1,4 +1,4 @@
-# Consuming Web API in DotVVM with ASP.NET Core
+# Consuming WCF Service in DotVVM with ASP.NET Core
 
 DotVVM is a ASP.NET framework that allows us to create web applications using the MVVM (Model-View-Viewmodel) design pattern with C# and HTML. In this repository, we can find the source code of an application that consumes WCF Services for handling user data.
 
